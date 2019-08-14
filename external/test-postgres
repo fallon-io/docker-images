@@ -1,0 +1,17 @@
+DockerRepo: docker.io/library/postgres
+
+Tags: 10
+Architectures: amd64
+DockerImageDigest: sha256:04f8933c49fe7d177b1e715161037378ef0a0e6698997fe062d91668eb2b6a51
+
+Tags: 11, 11.5, latest
+Architectures: amd64
+DockerImageDigest: sha256:1b94cb9fe60c50a15fd4b52cc0cd6e11cc98264aa50a705161b937a2339f4d68
+
+Tags: 10-alpine
+Architectures: amd64
+DockerImageDigest: sha256:3326c5c26dca87581d4e2098f91ff0b2d8b74b79020c4e30c1eb3358808f1daa
+
+Tags: 9.5
+Architectures: amd64
+DockerImageDigest: sha256:3d0f296b7a3b8f23fac3661b8b17da2fb60b812aaf5cb35b1de34990c6459fc4
